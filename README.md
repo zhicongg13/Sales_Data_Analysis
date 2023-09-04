@@ -8,12 +8,9 @@ Technical Skills Used:
 * Data Visualisation (Matplotlib, Seaborn)
 * Data Insights
 
-Project Summary: 
-The Sales Report Project is a comprehensive analysis of a company's sales data to gain insights into various aspects of its business operations. The project is structured around five key analytical areas, each designed to answer specific questions and uncover valuable information:
-
 Project Summary:
 
-The Sales Report Project is a comprehensive analysis of a company's sales data aimed at gaining insights into various aspects of its business operations. The project is structured around five key analytical areas, each designed to answer specific questions and uncover valuable information:
+The Sales Report Project is a comprehensive analysis of the Super Store sales data aimed at gaining insights into various aspects of its business operations. The project is structured around five key analytical areas, each designed to answer specific questions and uncover valuable information:
 
 1. **Time Analysis**:
    - Explore the sales trend over the years.
