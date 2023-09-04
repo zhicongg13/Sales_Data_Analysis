@@ -1,5 +1,7 @@
 # Sales-Report-Analysis
 
+Dataset obtained from: https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset. 
+
 Technical Skills Used:
 
 * Python (Jupyter Notebook)
@@ -35,6 +37,8 @@ The Sales Report Project is a comprehensive analysis of the Super Store sales da
    - Determine whether there are regular customers who place at least 100 orders and evaluate their impact on overall profitability. 
 
 Through these analyses, this project aims to provide valuable insights into the company's sales performance, customer behaviour, product trends, shipping efficiency, and profitability. The findings will guide strategic decision-making and help optimize various aspects of the business for future growth and success.
+
+
 
 
 
