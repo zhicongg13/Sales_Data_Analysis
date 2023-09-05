@@ -10,7 +10,7 @@ Technical Skills Used:
 * Data Visualisation (Matplotlib, Seaborn)
 
 Project Overview:
-This project constitutes a comprehensive analysis of Super Store's sales data, with the primary objective of deriving valuable insights into various facets of the company's operations. 
+This project constitutes a comprehensive analysis of Super Store's sales data, with the primary objective of deriving valuable insights into various facets of the company's performance. 
 
 The project is structured around five key analytical areas, each designed to answer specific questions and uncover valuable information:
 
