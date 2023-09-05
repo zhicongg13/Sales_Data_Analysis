@@ -8,7 +8,6 @@ Technical Skills Used:
 * Exploratory Data Analysis (EDA)
 * Data Wrangling Libraries (Pandas)
 * Data Visualisation (Matplotlib, Seaborn)
-* Data Insights
 
 Project Overview:
 This project constitutes a comprehensive analysis of Super Store's sales data, with the primary objective of deriving valuable insights into various facets of the company's operations. 
