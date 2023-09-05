@@ -27,12 +27,12 @@ The project is structured around five key analytical areas, each designed to ans
    - Investigate whether the choice of shipment mode affects shipping dates and efficiency, potentially influencing customer satisfaction.
 
 4. **Product Analysis**:
-   - Analyze the best-selling product categories in terms of quantity and sales amount.
+   - Analyse the best-selling product categories in terms of quantity and sales amount.
    - Explore the sales trends of different product categories over the years and assess whether specific categories perform differently in various markets.
 
 5. **Profit Analysis**:
    - Identify the top three countries generating the highest and negative profits for the company. 
-   - Analyze product sub-categories with negative profit margins and identify the respective countries.
+   - Analyse product sub-categories with negative profit margins and identify the respective countries.
    - Conduct customer profitability analysis to identify the number of customers generating negative profits. 
    - Determine whether there are regular customers who place at least 100 orders and evaluate their impact on the store's profitability. 
 
