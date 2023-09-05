@@ -6,6 +6,7 @@ Technical Skills Used:
 
 * Python (Jupyter Notebook)
 * Exploratory Data Analysis (EDA)
+* Data Cleaning
 * Data Wrangling Libraries (Pandas)
 * Data Visualisation (Matplotlib, Seaborn)
 
