@@ -1,14 +1,11 @@
-# Sales-Report-Analysis
+Super Store Sales Data Analysis using Python
 
 Super Store Dataset obtained from: https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset. 
 
-Technical Skills Used:
-
+Tools and libraries: 
 * Python (Jupyter Notebook)
-* Exploratory Data Analysis (EDA)
-* Data Cleaning
-* Data Wrangling Libraries (Pandas)
-* Data Visualisation (Matplotlib, Seaborn)
+* Data Exploration (Pandas)
+* Data Visualisation (Matplotlib, Seaborn, Plotly)
 
 Project Overview:
 This project constitutes a comprehensive analysis of Super Store's sales data, with the primary objective of deriving valuable insights into various facets of the company's performance. 
