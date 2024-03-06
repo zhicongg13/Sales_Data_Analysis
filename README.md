@@ -10,8 +10,11 @@ Super Store Dataset obtained from: https://www.kaggle.com/datasets/laibaanwer/su
 Project Overview:
 This project analyses Super Store's sales data to uncover valuable performance insights. It is organised into five key analytical areas, each tailored to address specific questions and identify areas of improvement. 
 
-1. **Time Analysis**:
-   - What is the trend of sales over the years?
+# 1. Time Analysis:
+
+## 1.1. What is the trend of sales over the years?
+
+
    - Which month has the highest sales, and how does it compare yearly?
 
 2. **Geographical Analysis**:
