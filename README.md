@@ -38,7 +38,7 @@ This project analyses Super Store's sales data to uncover valuable performance i
    - How many customers are generating profits or losses?
    - Are there any customers who qualify as regular customers by placing at least 100 orders in the store, and if so, are they profitable for the business?
 
-Super Store Dataset obtained from: https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset 
+Super Store Dataset downloaded from: https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset 
 
 
 
