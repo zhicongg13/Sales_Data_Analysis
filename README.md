@@ -5,8 +5,10 @@ Tools and libraries:
 * Data Exploration (Pandas)
 * Data Visualisation (Matplotlib, Seaborn, Plotly)
 
+Super Store Dataset obtained from: https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset 
+
 Project Overview:
-This project constitutes a comprehensive analysis of Super Store's sales data, with the primary objective of deriving valuable insights into various facets of the company's performance. The project is structured around five key analytical areas, each designed to answer specific questions and uncover valuable information:
+This project thoroughly analyses Super Store's sales data to uncover valuable company performance insights. It is organised into five key analytical areas, each tailored to address specific questions and reveal valuable information.
 
 1. **Time Analysis**:
    - What is the trend of sales over the years?
