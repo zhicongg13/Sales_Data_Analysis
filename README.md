@@ -73,7 +73,7 @@ Text
 Text
 
 
-### 4.3 What is the sales count trend for each product category?
+### 4.3 What is the sales trend for each product category?
 Text
 Text
 Text
