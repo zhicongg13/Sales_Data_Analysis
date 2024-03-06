@@ -1,7 +1,5 @@
 # Analysing Super Store Sales Data with Python
 
-Super Store Dataset obtained from: https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset 
-
 Tools and libraries: 
 * Python (Jupyter Notebook)
 * Data Exploration (Pandas)
@@ -11,29 +9,34 @@ Project Overview:
 This project constitutes a comprehensive analysis of Super Store's sales data, with the primary objective of deriving valuable insights into various facets of the company's performance. The project is structured around five key analytical areas, each designed to answer specific questions and uncover valuable information:
 
 1. **Time Analysis**:
-   - Explore the sales trend over the years.
-   - Investigate which months have the highest and lowest sales counts, comparing them across different years.
+   - What is the trend of sales over the years?
+   - Which month has the highest sales, and how does it compare yearly?
 
 2. **Geographical Analysis**:
    - Examine sales growth percentages in different regions within the consumer segment from 2013 to 2014.
-   - Identify the top three regions with the highest and lowest customer counts. 
+   - What are the top 3 regions with the highest and lowest customer counts?
+   - How do sales trends in Central Asia vary, and what surges were observed from 2013 to 2014?
+
 
 3. **Shipping Analysis**:
-   - Discover the preferred shipment mode among customers. 
-   - Investigate whether the choice of shipment mode affects shipping dates and efficiency, potentially influencing customer satisfaction.
+   - Which shipment mode is the most popular?
+   - Does the type of shipment mode affect the shipping date?
+   - What is the total shipping cost customers have paid over the years?
 
 4. **Product Analysis**:
-   - Analyse the best-selling product categories in terms of quantity and sales amount.
-   - Explore the sales trends of different product categories over the years and assess whether specific categories perform differently in various markets.
+   - Which product category has sold the most? (In quantity)
+   - Which product category has sold the most? (In sales amount)
+   - What is the sales count trend for each product category?
+   - Do different product categories exhibit consistent sales patterns across different markets?
 
 5. **Profit Analysis**:
-   - Identify the top three countries generating the highest and negative profits for the company. 
-   - Analyse product sub-categories with negative profit margins and identify the respective countries.
-   - Conduct customer profitability analysis to identify the number of customers generating negative profits. 
-   - Determine whether there are regular customers who place at least 100 orders and evaluate their impact on the store's profitability. 
+   - Which top 3 countries have the highest profit? 
+   - Which top 3 countries have the lowest or negative profit?
+   - Which product sub-categories result in negative sales profits, and in which top 5 countries are they occurring?
+   - How many customers are generating profits or losses?
+   - Are there any customers who qualify as regular customers by placing at least 100 orders in the store, and if so, are they profitable for the business?
 
-
-
+Super Store Dataset obtained from: https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset 
 
 
 
