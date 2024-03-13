@@ -20,8 +20,15 @@ The graph shows a consistent and positive growth trend in sales over the years f
 
 
 ### 1.2 Which month has the highest sales, and how does it compare yearly?
-Text
-Text
+Based on the trend of the sales figures during the months of January to May, with February consistently exhibiting the lowest total sales, implementing targeted promotions and activities during this period can help stimulate sales and drive customer engagement. Here are some promotion ideas:
+
+1. Seasonal Sales Events:
+* Launch special seasonal sales events or clearance sales during the months of January to May to attract customers seeking discounts and deals - such as 1/1, 2/2 and 3/3 monthly promotional sales.
+
+2. Holiday Promotions (Tailored for February):
+* Create promotional campaigns around holidays like Valentine's Day and Lunar New Year to capitalise on increased consumer spending during these periods.
+* Offer themed promotions, bundle deals, or exclusive discounts for holiday-related products.
+  
 <p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/1.2%20Which%20month%20has%20the%20highest%20sales%2C%20and%20how%20does%20it%20compare%20yearly%3F.png">
  </kbd> <br>
 
@@ -29,11 +36,10 @@ Text
 
 <p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/1.2%20Which%20month%20has%20the%20highest%20sales%2C%20and%20how%20does%20it%20compare%20yearly%3F%20(2).png">
  </kbd> <br>
-
  
 
 # 2. Geographical Analysis:
-### 2.1 Examine sales growth percentages in different regions within the consumer segment from 2013 to 2014.
+### 2.1 How has consumer segment growth varied regionally from 2013 to 2014?
 Text
 Text
 <p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/2.1%20How%20has%20consumer%20segment%20growth%20varied%20regionally%20from%202013%20to%202014%3F.png">
