@@ -3,7 +3,7 @@
 Tools and libraries: 
 * Python (Jupyter Notebook)
 * Data Exploration (Pandas)
-* Data Visualisation (Matplotlib, Seaborn, Plotly)
+* Data Visualisation (Matplotlib, Seaborn)
 
 Super Store Dataset obtained from: https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset 
 
