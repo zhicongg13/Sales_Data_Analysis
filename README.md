@@ -15,7 +15,7 @@ This project analyses Super Store's sales data to uncover valuable performance i
 ### 1.1 What is the trend of sales over the years?
 The graph shows a consistent and positive growth trend in sales over the years from 2011 to 2014 - which is a positive sign for Superstore, as it shows that they are able to continue to grow their business.
 
-<p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/1.1%20What%20is%20the%20trend%20of%20sales%20over%20the%20years%3F.png">
+<p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/1.1%20What%20is%20the%20sales%20trend%20over%20the%20years%3F.png">
  </kbd> <br>
 
 
@@ -146,6 +146,9 @@ Text
 <p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/5.3%20Which%20product%20sub-categories%20are%20resulting%20in%20negative%20sales%20profits%2C%20and%20in%20which%20top%205%20countries%20are%20they%20occurring%3F.png">
  </kbd> <br>
 
+ 
+<p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/5.3%20Which%20product%20sub-categories%20are%20resulting%20in%20negative%20sales%20profits%2C%20and%20in%20which%20top%205%20countries%20are%20they%20occurring%3F%20(2).png">
+ </kbd> <br>
 
 
 
@@ -160,11 +163,8 @@ Text
 ### 5.5 Are there any customers who qualify as regular customers by placing at least 100 orders in the store, and if so, are they profitable for the business?
 Text
 Text
-<p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/5.5%20Regular%20customer%20negative%20profit.png">
+<p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/5.5%20Regular%20customers%20profit%20and%20loss.png">
  </kbd> <br>
-
-
-
 
 
 
