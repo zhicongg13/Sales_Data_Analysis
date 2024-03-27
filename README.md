@@ -20,7 +20,7 @@ The graph shows a consistent and positive growth trend in sales over the years f
 
 
 ### 1.2 Which month has the highest sales, and how does it compare yearly?
-Based on the trend of the sales figures during the months of January to May, with February consistently exhibiting the lowest total sales, implementing targeted promotions and activities during this period can help stimulate sales and drive customer engagement. Here are some promotion ideas:
+Based on the trend of the sales figures from January to May, with February consistently exhibiting the lowest total sales, implementing targeted promotions and activities during this period can help stimulate sales and drive customer engagement. Here are some promotion ideas:
 
 1. Seasonal Sales Events:
 * Launch special seasonal sales events or clearance sales during the months of January to May to attract customers seeking discounts and deals - such as 1/1, 2/2 and 3/3 monthly promotional sales.
@@ -209,7 +209,7 @@ The top five countries with the highest negative profits are as follows:
 
 
 ### 5.4 How many customers are generating profits or losses?
-The scatterplot shows that majority of the customers generate profits however, the data also indicates a significant portion of sales (67 out of 795) actually resulted in losses.
+The scatterplot shows that the majority of the customers generate profits. However, the data also indicates a significant portion of sales (67 out of 795) actually resulted in losses.
 
 <p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/5.4%20How%20many%20customers%20are%20generating%20profits%20or%20losses%3F.png">
  </kbd> <br>
@@ -217,8 +217,8 @@ The scatterplot shows that majority of the customers generate profits however, t
 
 
 ### 5.5 Are there any customers who qualify as regular customers by placing at least 100 orders in the store, and if so, are they profitable for the business?
-Text
-Text
+Out of the six regular customers who made over 100 purchases, only Harry Greene generated a negative profit of -$291.
+
 <p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/5.5%20Regular%20customers%20profit%20and%20loss.png">
  </kbd> <br>
 
