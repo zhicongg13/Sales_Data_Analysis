@@ -169,8 +169,12 @@ Market-Specific Observations:
 
 # 5. **Profit Analysis**:
 ### 5.1 Which top 5 countries have the highest profit? 
-Text
-Text
+* United States $286,397
+* China $150,683
+* India $129,071
+* United Kingdom $111,900
+* France $109,029
+
 <p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/5.1%20Which%205%20countries%20top%20the%20list%20for%20highest%20profit%3F.png">
  </kbd> <br>
 
