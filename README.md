@@ -171,23 +171,37 @@ Market-Specific Observations:
 ### 5.1 Which top 5 countries have the highest profit? 
 Text
 Text
-
+<p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/5.1%20Which%205%20countries%20top%20the%20list%20for%20highest%20profit%3F.png">
+ </kbd> <br>
 
 
 
 ### 5.2 Which top 5 countries have the lowest or negative profit?
-Text
-Text
+* Turkey -$98,447
+* Nigeria -$80,750
+* Netherlands -$41,070
+* Honduras -$29,482
+* Pakistan $22,446
 
+<p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/5.2%20Which%205%20countries%20rank%20lowest%20in%20profit%20or%20have%20negative%20profit%3F.png">
+ </kbd> <br>
 
 
 
 ### 5.3 Which product sub-categories result in negative sales profits, and in which top 5 countries are they occurring?
-Text
-Text
+
+Table is the only sub-category that did not generate profit, with a total of 33 countries reporting negative profits - it would be wise for Superstore to discontinue this product since it is making a loss.
+
+The top five countries with the highest negative profits are as follows:
+
+* United States -$17,725
+* Indonesia -$10,680
+* Germany -$7375
+* France -$5918
+* Italy -$5811
+
 <p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/5.3%20Which%20product%20sub-categories%20are%20resulting%20in%20negative%20sales%20profits%2C%20and%20in%20which%20top%205%20countries%20are%20they%20occurring%3F.png">
  </kbd> <br>
-
  
 <p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/5.3%20Which%20product%20sub-categories%20are%20resulting%20in%20negative%20sales%20profits%2C%20and%20in%20which%20top%205%20countries%20are%20they%20occurring%3F%20(2).png">
  </kbd> <br>
@@ -195,8 +209,8 @@ Text
 
 
 ### 5.4 How many customers are generating profits or losses?
-Text
-Text
+The scatterplot shows that majority of the customers generate profits however, the data also indicates a significant portion of sales (67 out of 795) actually resulted in losses.
+
 <p align="center"> <kbd> <img width="700" alt="Presentation1" src="https://github.com/zhicongg13/Sales_Report_Data_Analysis/blob/main/Graphs/5.4%20How%20many%20customers%20are%20generating%20profits%20or%20losses%3F.png">
  </kbd> <br>
 
